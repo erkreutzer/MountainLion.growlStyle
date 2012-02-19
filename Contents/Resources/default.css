@@ -3,10 +3,11 @@ html {
 }
 
 body {
+    position: relative;
     width: 340px;
     padding: 5px;
-    font-family: "Lucida Grande", "sans-serif";
-    position: relative;
+
+    font-family: "Lucida Grande", sans-serif;
     -webkit-font-smoothing: antialiased;
 }
 
